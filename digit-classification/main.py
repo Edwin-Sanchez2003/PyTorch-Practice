@@ -22,7 +22,6 @@ import torch.optim as optim
 import torchvision
 import torchvision.transforms as transforms
 
-import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
 
